@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "710330985761",
+    "project_id": "care-house",
+    "storage_bucket": "care-house.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710330985761:android:c7932d52626596b3242260",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710330985761-nbuos8jgj56pi08d1bpb7blh0ivgd3kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqWcAyLM7hS5smXf6-cMZ52mcLPHmWC_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710330985761-nbuos8jgj56pi08d1bpb7blh0ivgd3kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
